@@ -8,10 +8,10 @@ Projektna naloga pri predmetu Programiranju 1
 podatki so bili zajeti iz spletnih strani https://www.avto.net
 ## Zajeti podatki so:
 
-ime vozila
-leto prve registracije
-stevilo prevozenih kilometrov
-tip motorja 
+ime vozila <br />
+leto prve registracije <br />
+stevilo prevozenih kilometrov <br />
+tip motorja <br />
 cena
 
 
