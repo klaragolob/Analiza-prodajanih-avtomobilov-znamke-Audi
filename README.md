@@ -1,9 +1,9 @@
-## Audi
+# Audi
 
 Projektna naloga pri predmetu Programiranju 1
 
 
-#Zajem podatkov
+## Zajem podatkov
 
 podatki so bili zajeti iz spletnih strani https://www.avto.net/Ads/results.asp?znamka=Audi&model=&modelID=&tip
 =&znamka2=&model2=&tip2=&znamka3=&model3=&tip3=&cenaMin=0&cenaMax=999999&letnikMin=0&letnikMax=2090&bencin=
@@ -14,7 +14,7 @@ EQ3=1000000000&EQ4=1000000000&EQ5=1000000000&EQ6=1000000000&EQ7=1110100120&EQ8=1
 KAT=1010000000&PIA=&PSLO=&akcija=0&paketgarancije=&broker=0&prikazkategorije=0&kategorija=0&zaloga=10&arhiv=0&
 presort=333&tipsort=DESC&stran=1-10
 
-#Zajeti podatki so:
+## Zajeti podatki so:
 
 ime vozila
 leto prve registracije
@@ -23,7 +23,7 @@ tip motorja
 cena
 
 
-#Predvidena analiza:
+## Predvidena analiza:
 
 Kolikšna je cena vozila glede na njegvo starost in prevozene kilometre. Ali se prodaja vec vozil z bencinskim motorjem,
 ali dizelskim. Ali obstaja kaksna povezava med tipom motorja in ceno vozila. Kaksno je povprecno stevilo prevozenih kilometrov
