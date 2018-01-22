@@ -1,4 +1,4 @@
-# Audi
+# Analiza prodajanih avtomobilov znamke Audi
 
 Projektna naloga pri predmetu Programiranje 1
 
