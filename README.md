@@ -1,6 +1,6 @@
 # Audi
 
-Projektna naloga pri predmetu Programiranju 1
+Projektna naloga pri predmetu Programiranje 1
 
 
 ## Zajem podatkov
